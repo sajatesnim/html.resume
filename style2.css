@@ -1,0 +1,21 @@
+html {
+     background-color: rgba(224, 222, 88, 0.889) 
+    
+}
+h1 {
+    color: blue;
+}
+h2{color: blue;}
+h3{color: blue;}
+
+
+hr {
+    border: none;
+    border-top: 3px doube #333;
+    color: #333;
+    overflow: hidden;
+    text-align: center;
+    height: 5px;
+  }
+  
+
